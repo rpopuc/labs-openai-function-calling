@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+
+  app:
+    image: node:latest
+    volumes:
+      - ./:/var/www/
+    working_dir: /var/www/
+    env_file: .env
+    tty: true

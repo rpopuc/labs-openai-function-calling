@@ -1,0 +1,27 @@
+{
+  "name": "query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query-chat.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@postlight/parser": "^2.2.3",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "module-alias": "^2.2.3",
+    "mongodb": "^5.2.0",
+    "openai": "^4.12.3",
+    "turndown": "^7.1.2"
+  },
+  "_moduleAliases": {
+    "@": "."
+  }
+}

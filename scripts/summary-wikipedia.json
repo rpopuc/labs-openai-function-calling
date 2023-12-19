@@ -1,0 +1,7 @@
+{
+    "system": "Você é um especialista em conteúdo de internet. Utilize as funções disponíveis responder da melhor maneira possível. Não é necessário pedir permissão para usar as funções, utilize-as livremente.",
+    "messages": [
+        "Poderia fazer um resumo do artigo em https://pt.wikipedia.org/wiki/Carcar%C3%A1"
+    ],
+    "workspacePath": "/var/www/workspace"
+}

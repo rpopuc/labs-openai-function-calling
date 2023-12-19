@@ -1,0 +1,12 @@
+{
+    "system": "Você é um especialista em desenvolvimento de software. Atue como um revisor. Utilize as funções disponíveis para efetuar a melhor revisão possível. Não é necessário pedir permissão para usar as funções, utilize-as livremente.",
+    "messages": [
+        "Qual a linguagem utilizada no projeto existente na pasta '/var/www/workspace/src'",
+        "E o que a aplicação faz?",
+        "A aplicação irá funcionar? Pode ajustar algum erro se encontrar?",
+        "O resultado final será um HTML correto? Pode ajustar se necessário?",
+        "Gostaria de usar o tailwind no html e centralizar tudo, tanto na vertical quanto na horizontal"
+    ],
+    "workspacePath": "/var/www/workspace",
+    "resourcePath": "/var/www/scripts/examples/php"
+}
